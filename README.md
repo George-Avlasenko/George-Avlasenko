@@ -18,7 +18,6 @@ I'm into the full path — from a pad on a PCB to a deploy.
 [![Email](https://img.shields.io/badge/Email-georgii2004avlasenko%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgii2004avlasenko@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Ya_tyta_posijy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ya_tyta_posijy)
 
-```html
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
@@ -30,4 +29,4 @@ I'm into the full path — from a pad on a PCB to a deploy.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-```
+
