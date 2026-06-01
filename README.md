@@ -1,40 +1,43 @@
-# Привет. Я — Георгий Александрович Авласенко.
+# Русский
 
-Разносторонний разработчик: от платы и пайки — до архитектуры и пайплайнов.
+Привет. Я — **Георгий Александрович Авласенко**.
 
-Заканчиваю **Белорусский государственный технологический университет**,  
-факультет **информационных технологий**.  
-За развитие профессиональных навыков — не на словах, а в коде, схемах и проде.
+Разносторонний разработчик: от платы и пайки — до архитектуры и CI/CD.
 
-**Где я себя чувствую дома:**
+Заканчиваю **Белорусский государственный технологический университет**, факультет **информационных технологий**. За развитие профессиональных навыков — не на словах, а в коде, схемах и окружении, близком к продакшену.
 
-- железо: что происходит «под капотом», пайка, отладка на уровне сигналов
-- сети и протоколы: как данные реально едут, а не только «запрос ушёл»
-- софт: от сервисов и API до архитектурных решений
-- окружение: CI/CD, контейнеры, воспроизводимые сборки
+**Чем занимаюсь:**
 
-Мне интересен весь путь — от контакта на плате до деплоя.  
-Если ты тоже копаешь глубже, чем «просто работает» — давай знакомиться.
+- железо — пайка, отладка, понимание того, что происходит на уровне сигналов
+- сети и протоколы — стеки передачи данных, как информация реально движется
+- софт — сервисы, API, архитектурные решения
+- окружение — Docker, CI/CD, воспроизводимые сборки
+
+**Про системы:** считаю, что у каждой ОС своё место — как у замка свой ключ. На основной машине больше года живу на **Arch Linux**.
+
+Мне интересен весь путь — от контакта на плате до деплоя.
 
 📫 georgii2004avlasenko@gmail.com
 
+---
 
+# English
 
+Hey. I'm **Georgy Avlasenko**.
 
-# Hey. I'm Georgy Avlasenko.
+A generalist developer — from boards and soldering to architecture and CI/CD.
 
-A generalist developer — from boards and soldering to architecture and pipelines.
+Finishing **Belarusian State Technological University**, **Faculty of Information Technology**. I grow as a professional through code, schematics, and production-like environments — not just theory.
 
-Finishing **Belarusian State Technological University**,  
-**Faculty of Information Technology**.  
-I care about growing as a professional — in code, schematics, and production-like setups.
+**What I work with:**
 
-**Where I'm comfortable:**
+- hardware — soldering, debugging, signal-level understanding
+- networks & protocols — data stacks, how information actually moves
+- software — services, APIs, system design
+- environment — Docker, CI/CD, repeatable builds
 
-- hardware: what actually happens under the hood, soldering, signal-level debugging
-- networks & protocols: how data really moves, not just “request sent”
-- software: from services and APIs to system design
-- environment: CI/CD, containers, repeatable builds
+**On operating systems:** every OS has its place — the right key for the right lock. On my main machine I've been on **Arch Linux** for over a year.
 
-I'm into the full stack of reality — from a pad on a PCB to a deploy.  
-If you like going deeper than “it works” — say hi.
+I'm into the full path — from a pad on a PCB to a deploy.
+
+📫 georgii2004avlasenko@gmail.com
