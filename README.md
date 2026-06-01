@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="https://github.com/George-Avlasenko/George-Avlasenko/raw/master/banner.mp4" width="600" autoplay loop muted></video>
+  <video src="./banner.mp4" width="600" controls autoplay loop muted></video>
 </div>
 Hey. I'm **Georgy Avlasenko**.
 
