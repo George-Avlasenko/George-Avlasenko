@@ -18,14 +18,16 @@ I'm into the full path — from a pad on a PCB to a deploy.
 [![Email](https://img.shields.io/badge/Email-georgii2004avlasenko%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgii2004avlasenko@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Ya_tyta_posijy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ya_tyta_posijy)
 
-| Технология | URL |
-|------------|-----|
-| C# | `.../icons/csharp/csharp-original.svg` |
-| .NET | `.../icons/dot-net/dot-net-original.svg` |
-| React | `.../icons/react/react-original.svg` |
-| TypeScript | `.../icons/typescript/typescript-original.svg` |
-| PostgreSQL | `.../icons/postgresql/postgresql-original.svg` |
-| Docker | `.../icons/docker/docker-original.svg` |
-| Python | `.../icons/python/python-original.svg` |
-| Linux | `.../icons/linux/linux-original.svg` |
-| Git | `.../icons/git/git-original.svg` |
+```html
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+```
