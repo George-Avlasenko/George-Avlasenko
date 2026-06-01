@@ -18,3 +18,14 @@ I'm into the full path — from a pad on a PCB to a deploy.
 [![Email](https://img.shields.io/badge/Email-georgii2004avlasenko%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgii2004avlasenko@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Ya_tyta_posijy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ya_tyta_posijy)
 
+| Технология | URL |
+|------------|-----|
+| C# | `.../icons/csharp/csharp-original.svg` |
+| .NET | `.../icons/dot-net/dot-net-original.svg` |
+| React | `.../icons/react/react-original.svg` |
+| TypeScript | `.../icons/typescript/typescript-original.svg` |
+| PostgreSQL | `.../icons/postgresql/postgresql-original.svg` |
+| Docker | `.../icons/docker/docker-original.svg` |
+| Python | `.../icons/python/python-original.svg` |
+| Linux | `.../icons/linux/linux-original.svg` |
+| Git | `.../icons/git/git-original.svg` |
