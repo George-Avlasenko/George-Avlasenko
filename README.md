@@ -1,3 +1,6 @@
+<div align="center">
+  <video src="https://github.com/George-Avlasenko/George-Avlasenko/raw/main/banner.mp4" width="600" autoplay loop muted></video>
+</div>
 Hey. I'm **Georgy Avlasenko**.
 
 A generalist developer — from boards and soldering to architecture and CI/CD.
