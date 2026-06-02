@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="./banner.mp4" width="600" controls autoplay loop muted></video>
+<video src="https://cdn.jsdelivr.net/gh/George-Avlasenko/George-Avlasenko@main/banner.mp4" width="600" controls autoplay loop muted></video>
 </div>
 Hey. I'm **Georgy Avlasenko**.
 
