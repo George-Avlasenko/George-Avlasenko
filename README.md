@@ -1,10 +1,5 @@
 <img width="736" height="414" alt="banner-ezgif com-optimize" src="https://github.com/user-attachments/assets/65984e43-bddd-408e-9894-7eaf01b971b3" />
 
-
-
-
-https://github.com/user-attachments/assets/1122f0a3-a805-41d9-8aa8-eaf525fd147e
-
 Hey. I'm **Georgy Avlasenko**.
 
 A generalist developer — from boards and soldering to architecture and CI/CD.
