@@ -1,6 +1,5 @@
-<div align="center">
-<video src="https://cdn.jsdelivr.net/gh/George-Avlasenko/George-Avlasenko@main/banner.mp4" width="600" controls autoplay loop muted></video>
-</div>
+https://github.com/user-attachments/assets/1122f0a3-a805-41d9-8aa8-eaf525fd147e
+
 Hey. I'm **Georgy Avlasenko**.
 
 A generalist developer — from boards and soldering to architecture and CI/CD.
